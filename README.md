@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
 #  Olá! Eu sou o Eduardo Brandão Ferrari 👋
 
@@ -25,3 +25,5 @@ Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análise de da
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
