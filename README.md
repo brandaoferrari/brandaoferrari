@@ -4,7 +4,7 @@
 
 ## Apaixonado por Data Analytics, Carros e Futebol
 
-### Sobre Mim
+### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, estou fazendo um excelente estágio em análise de dados que me proporciona uma verdadeira experiencia como analista de dados.
 
 Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análise de dados.
