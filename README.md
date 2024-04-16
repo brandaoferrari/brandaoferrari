@@ -7,7 +7,7 @@
 ### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, estou fazendo um excelente estágio em análise de dados que me proporciona uma verdadeira experiencia como analista de dados.
 
-Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análise de dados.
+Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análises.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardobrand%C3%A3oferrari/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardobf2003@gmail.com)
