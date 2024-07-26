@@ -3,8 +3,6 @@
 #  Olá! 👋
 Sou analista de dados com mais de 1 ano de experiência na área e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal. Tenho experiência com atualizações de dashboards, análises descritivas, preditivas, automatização de processos e apresentações para analistas e lideranças sobre o resultado de análises e ferramentas desenvolvidas. Conheço e utilizo bastante as principais bibliotecas de dados do Python, Excel, SQL, Git e GitHub. 
 
-Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análises.
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardobrand%C3%A3oferrari/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardobf2003@gmail.com)
 <br>
