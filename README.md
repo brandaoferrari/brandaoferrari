@@ -1,11 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
-#  Olá! Eu sou o Eduardo Brandão Ferrari 👋
-
-## Apaixonado por Data Analytics, Carros e Futebol
-
-### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, estou fazendo um excelente estágio em análise de dados que me proporciona uma verdadeira experiencia como analista de dados.
+#  Olá! 👋
+Sou analista de dados com mais de 1 ano de experiência na área e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal. Tenho experiência com atualizações de dashboards, análises descritivas, preditivas, automatização de processos e apresentações para analistas e lideranças sobre o resultado de análises e ferramentas desenvolvidas. Conheço e utilizo bastante as principais bibliotecas de dados do Python, Excel, SQL, Git e GitHub. 
 
 Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análises.
 
@@ -13,7 +9,7 @@ Gosto bastante de pegar datasets no Kaggle e brincar um pouco com análises.
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardobf2003@gmail.com)
 <br>
 
-## 🧪💻 Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
